@@ -7,7 +7,8 @@ const app = new App({
       {
         id: "1123",
         name: "Patrick",
-        message: "Is this job done yet?",
+        message:
+          "Is this job done yet? We have to make sure this works when more than one line is inputted",
         date: "2021-02-19T17:10:59+0000",
         profilePictureUrl:
           "https://treknews.net/wp-content/uploads/2020/06/patrick-stewart-memoir-book-star-trek-tng-picard.jpg",
